@@ -26,7 +26,7 @@ Uma calculadora de Índice de Massa Corporal (IMC) interativa e responsiva, dese
 
 ## 🚀 Como Usar
 
-1.  Acesse a calculadora através do link: [https://pedrofogaca.github.io/calculadora-imc/](https://pedrofogaca.github.io/calculadora-imc/)
+1.  Acesse a calculadora através do link:  https://pedro-fogaca.github.io/calculadora-imc/
 2.  Insira seu **peso** em quilogramas (kg) no primeiro campo.
 3.  Insira sua **altura** em metros (m) no segundo campo.
 4.  Clique no botão **"Calcular IMC"**.
